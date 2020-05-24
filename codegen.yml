@@ -1,6 +1,6 @@
 overwrite: true
 schema: "https://graphql-pokemon.now.sh"
-# documents: "**/*.graphql"
+#documents: "**/*.graphql"
 generates:
   src/generated/graphql.tsx:
     plugins:
